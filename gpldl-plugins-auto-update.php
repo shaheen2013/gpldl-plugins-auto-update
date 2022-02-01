@@ -19,7 +19,7 @@ error_reporting(E_ALL);
  * @wordpress-plugin
  * Plugin Name:       GPLDL Plugins Auto Update
  * Plugin URI:
- * Description:       This Plugin is for update plugin automation. This plugin update only those plugins whose are downloaded from gpldl.
+ * Description:       Codibu.com - Auto plugin update / Only works with plugins in Codibu's free plugin list.
  * Version:           1.0.0
  * Author:            Saidul Alam
  * Author URI:        https://www.linkedin.com/in/saidul-alam-6697591b5/
